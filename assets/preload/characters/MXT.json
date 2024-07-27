@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MX Transformation"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "mario/MX/MX_Transformation_Assets",
+	"position": [
+		-1200,
+		-1500
+	],
+	"healthicon": "fake",
+	"flip_x": false,
+	"healthbar_colors": [
+		134,
+		31,
+		18
+	],
+	"camera_position": [
+		150,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

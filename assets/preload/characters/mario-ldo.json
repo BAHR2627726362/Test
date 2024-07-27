@@ -1,154 +1,154 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				211,
-				174
-			],
-			"anim": "singUP-alt",
-			"fps": 24,
-			"name": "PicoShoot0",
-			"indices": []
-		},
-		{
-			"offsets": [
-				8,
-				-20
+				1,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFT",
+			"anim": "idle",
 			"indices": [],
-			"name": "PicoLeft0"
-		},
-		{
-			"offsets": [
-				-30,
-				-90
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "PicoDown0"
-		},
-		{
-			"offsets": [
-				-69,
-				57
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "PicoUp0"
-		},
-		{
-			"offsets": [
-				-92,
-				23
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "PicoRight0"
-		},
-		{
-			"offsets": [
-				13,
-				8
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFTmiss",
-			"indices": [],
-			"name": "PicoLeftMiss"
-		},
-		{
-			"offsets": [
-				5,
-				-63
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWNmiss",
-			"indices": [],
-			"name": "PicoDownMiss"
-		},
-		{
-			"offsets": [
-				-66,
-				67
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "PicoUpMiss"
-		},
-		{
-			"offsets": [
-				-54,
-				42
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "PicoRightMiss"
-		},
-		{
-			"offsets": [
-				16,
-				47
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dialog1",
-			"indices": [],
-			"name": "PicoDialogue"
-		},
-		{
-			"offsets": [
-				-70,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dialog2",
-			"indices": [],
-			"name": "PicoDIalogue"
+			"name": "ldo mario idle normal"
 		},
 		{
 			"offsets": [
 				0,
 				0
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": false,
-			"name": "Pico Idle Dance"
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "ldo mario idle annoyed"
+		},
+		{
+			"offsets": [
+				52,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ldo mario left"
+		},
+		{
+			"offsets": [
+				-42,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ldo mario right"
+		},
+		{
+			"offsets": [
+				-33,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ldo mario down"
+		},
+		{
+			"offsets": [
+				8,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ldo mario up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "smoke hold",
+			"indices": [],
+			"name": "ldo mario smoke hold"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "gonnatell",
+			"indices": [],
+			"name": "ldo mario gonnatellmom"
+		},
+		{
+			"offsets": [
+				7,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "betternot",
+			"indices": [],
+			"name": "ldo mario yeayoubetternot"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "ldo mario hey"
+		},
+		{
+			"offsets": [
+				-68,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dumbass",
+			"indices": [],
+			"name": "ldo mario dumbassgeek"
+		},
+		{
+			"offsets": [
+				51,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idiot",
+			"indices": [],
+			"name": "ldo mario moms an idiot"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Too_Late_Pico_ass_sets_v2",
+	"image": "characters/Mario_LDO",
 	"position": [
-		0,
-		350
+		-30,
+		150
 	],
-	"healthicon": "pico",
-	"flip_x": true,
+	"healthicon": "mario-ldo",
+	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		165,
+		30,
+		44
 	],
 	"camera_position": [
-		0,
-		0
+		-100,
+		-20
 	],
 	"sing_duration": 4,
 	"scale": 1

@@ -1,154 +1,143 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
-				211,
-				174
+				0,
+				0
 			],
-			"anim": "singUP-alt",
+			"loop": false,
 			"fps": 24,
-			"name": "PicoShoot0",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "promario idle"
 		},
 		{
 			"offsets": [
-				8,
-				-20
+				244,
+				6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "PicoLeft0"
+			"name": "promario left"
 		},
 		{
 			"offsets": [
-				-30,
-				-90
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "PicoDown0"
-		},
-		{
-			"offsets": [
-				-69,
-				57
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "PicoUp0"
-		},
-		{
-			"offsets": [
-				-92,
-				23
+				-192,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "PicoRight0"
+			"name": "promario right"
 		},
 		{
 			"offsets": [
-				13,
-				8
+				-6,
+				-60
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singLEFTmiss",
+			"anim": "singDOWN",
 			"indices": [],
-			"name": "PicoLeftMiss"
+			"name": "promario down"
 		},
 		{
 			"offsets": [
-				5,
-				-63
+				-69,
+				62
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWNmiss",
+			"anim": "singUP",
 			"indices": [],
-			"name": "PicoDownMiss"
+			"name": "promario up"
 		},
 		{
 			"offsets": [
-				-66,
-				67
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUPmiss",
-			"indices": [],
-			"name": "PicoUpMiss"
-		},
-		{
-			"offsets": [
-				-54,
-				42
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHTmiss",
-			"indices": [],
-			"name": "PicoRightMiss"
-		},
-		{
-			"offsets": [
-				16,
-				47
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dialog1",
-			"indices": [],
-			"name": "PicoDialogue"
-		},
-		{
-			"offsets": [
-				-70,
-				-40
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dialog2",
-			"indices": [],
-			"name": "PicoDIalogue"
-		},
-		{
-			"offsets": [
-				0,
+				-239,
 				0
 			],
-			"indices": [],
-			"fps": 24,
-			"anim": "idle",
 			"loop": false,
-			"name": "Pico Idle Dance"
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "promario depressed idle"
+		},
+		{
+			"offsets": [
+				-236,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "promario depressed left"
+		},
+		{
+			"offsets": [
+				-239,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "promario depressed right"
+		},
+		{
+			"offsets": [
+				-220,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "promario depressed down"
+		},
+		{
+			"offsets": [
+				-246,
+				38
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "promario depressed up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				0
+			],
+			"anim": "depression",
+			"fps": 24,
+			"name": "promario transition idle",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Too_Late_Pico_ass_sets_v2",
+	"image": "characters/Mario_PromoShow",
 	"position": [
-		0,
-		350
+		-180,
+		242
 	],
-	"healthicon": "pico",
-	"flip_x": true,
+	"healthicon": "promo",
+	"flip_x": false,
 	"healthbar_colors": [
-		183,
-		216,
-		85
+		255,
+		44,
+		0
 	],
 	"camera_position": [
-		0,
-		0
+		-450,
+		80
 	],
 	"sing_duration": 4,
 	"scale": 1

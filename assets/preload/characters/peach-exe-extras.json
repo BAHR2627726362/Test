@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				226,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "PeachDIES"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "fall",
+			"indices": [],
+			"name": "PeachFalling"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/1P",
+	"position": [
+		-260,
+		-320
+	],
+	"healthicon": "peachex",
+	"flip_x": false,
+	"healthbar_colors": [
+		168,
+		52,
+		84
+	],
+	"camera_position": [
+		-320,
+		-190
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

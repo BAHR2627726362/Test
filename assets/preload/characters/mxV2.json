@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "MXRight"
+		},
+		{
+			"offsets": [
+				76,
+				246
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "MXIdle"
+		},
+		{
+			"offsets": [
+				167,
+				1042
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "MXUp"
+		},
+		{
+			"offsets": [
+				191,
+				700
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "MXLeft"
+		},
+		{
+			"offsets": [
+				61,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MXDown"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MX_v2_NEW_Assets",
+	"position": [
+		-810,
+		-550
+	],
+	"healthicon": "2MX",
+	"flip_x": false,
+	"healthbar_colors": [
+		75,
+		20,
+		14
+	],
+	"camera_position": [
+		-50,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
