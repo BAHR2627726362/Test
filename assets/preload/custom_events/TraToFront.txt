@@ -1,0 +1,5 @@
+sets 2d to front-d
+
+Value 1: 0 = 2d 1 = false
+
+Value 2: dad character

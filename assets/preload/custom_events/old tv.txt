@@ -1,0 +1,2 @@
+value 1 = i think here go the shader name 
+value 2 = i think here go the camGame

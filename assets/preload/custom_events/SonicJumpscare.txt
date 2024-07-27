@@ -1,0 +1,8 @@
+Value 1 = the number of character.
+
+Example:
+0: Sonic 
+1: Tails
+2: Knuckles
+3: Eggman
+4: Amy

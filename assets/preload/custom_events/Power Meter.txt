@@ -1,0 +1,4 @@
+hes the drowdning!!!!
+
+v1: activate or not (true/false)
+v2: beats until health drain

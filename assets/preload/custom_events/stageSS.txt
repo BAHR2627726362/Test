@@ -1,0 +1,4 @@
+v1 = image name (located in "images")
+
+v2 time it takes to appear
+should work
